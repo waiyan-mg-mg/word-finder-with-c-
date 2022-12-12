@@ -53,7 +53,7 @@ int findNcc()
     return count;
 }
 
-int findWinHtut()`
+int findWinHtut()
 {
     int count = 0;
     FILE *fptr = fopen("words.txt", "r");
